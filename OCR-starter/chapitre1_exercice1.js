@@ -5,3 +5,7 @@ Affichez dans la console :
 - votre âge (ce doit être un nombre)
 */
 
+const firstName = "Quentin"
+const myAge = 27
+
+console.log(`${firstName} ${myAge}ans`)

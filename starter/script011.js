@@ -3,17 +3,28 @@
 */
 
 
-
 // Opérateurs multiples
 
+/*
++
+    -
+*
+/
+%
+>
+<
+        =
+>=
+<=
+
+*/
 
 // Groupement
 
-
+console.log("()")
 
 // Affectations multiples
 
 
 
 // Autres opérateurs
-

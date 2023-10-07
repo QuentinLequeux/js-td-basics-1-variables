@@ -14,4 +14,18 @@ avec les valeurs 4 et 5 selon qu'elles sont de type nombre ou de type chaîne  :
 - que se passe-t-il si on entoure toute l'expression (VALEUR OPÉRANDE VALEUR) de guillemets ? Pourquoi ?
 */
 
+const quatre = 4
+const cinq = 5
 
+console.log(quatre + cinq)
+console.log("quatre + cinq")
+
+const four = "4"
+const five = "5"
+
+console.log(four + five)
+
+const katre = "4"
+const cink = 5
+
+console.log(katre + cink)
